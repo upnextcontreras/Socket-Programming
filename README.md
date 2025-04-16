@@ -42,7 +42,7 @@ Create a basic web server using TCP sockets to handle HTTP requests and response
 - Explanation and validation of server functionality.
 
 
-<img width="500" height="300" alt="WEB OUTPUT" src="[https://github.com/user-attachments/assets/5c2a4a82-08f6-4edf-8316-7bf4b05214b3](https://1drv.ms/i/c/cb30c93d6457aa85/ESamA66gykZFuVvOqcM8Px0BDMQ2KkC47ksc_o5NTCJYNA?e=NTIplh)">
+<img width="500" height="300" alt="WEB OUTPUT" src="https://1drv.ms/i/c/cb30c93d6457aa85/ESamA66gykZFuVvOqcM8Px0BDMQ2KkC47ksc_o5NTCJYNA?e=NTIplh">
 
 <img width="300" height="500" alt="JOB LIST" src="https://github.com/user-attachments/assets/56267528-1b65-4dc0-aabd-d3303ae979da">
 
