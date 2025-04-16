@@ -41,6 +41,13 @@ Create a basic web server using TCP sockets to handle HTTP requests and response
 - Screenshots demonstrating successful and unsuccessful HTTP requests.
 - Explanation and validation of server functionality.
 
+<p align="center">
+  <img src="https://github.com/yourusername/repo/blob/main/img1.png" width="200" />
+  <img src="https://github.com/yourusername/repo/blob/main/img2.png" width="200" /> 
+  <img src="https://github.com/yourusername/repo/blob/main/img3.png" width="200" />
+  <img src="https://github.com/yourusername/repo/blob/main/img4.png" width="200" />
+</p>
+
 ## Homework 3: Multithreaded Web Server
 
 ### Objective
