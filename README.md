@@ -72,23 +72,7 @@ Extend Homework 2 to create a multithreaded web server, capable of handling mult
 - Detailed explanation validating correct multithreaded behavior.
 - Explanation of the threading model and communication between threads and clients.
 
-CPSC-471-Assignments/
-├── homework-2/
-│   ├── webserver.py
-│   ├── screenshot_success.png
-│   ├── screenshot_404.png
-│   └── README.md
-├── homework-3/
-│   ├── threaded_webserver.py
-│   ├── screenshot_threaded_success.png
-│   ├── screenshot_threaded_404.png
-│   └── README.md
-└── README.md
-
 ## Academic Integrity and Purpose
 
 This repository contains assignment solutions completed as part of coursework for the CPSC 471 class at California State University, Fullerton. The code provided here is intended solely for educational purposes, demonstrating my understanding of socket programming, HTTP protocol handling, and multithreading concepts.  
 These projects are displayed publicly to illustrate my comprehension of key networking and software engineering principles as taught in the course. Any reuse of this code must comply with academic integrity guidelines and proper citation practices.
-
-
-
