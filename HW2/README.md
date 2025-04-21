@@ -32,7 +32,5 @@ Create a basic web server using TCP sockets to handle HTTP requests and response
 
 <img width="400" height="200" alt="HelloWord" src="https://github.com/user-attachments/assets/1f2a8f55-2d88-483e-b6b6-bf5edb4078d8" />
 <img width="500" height="200" alt="HelloWord(1)" src="https://github.com/user-attachments/assets/bd29f136-620f-4a65-b841-b9c2025d625c" />
-<img width="500" height="500" alt="HellowWord(2)" src="https://github.com/user-attachments/assets/c5a1a504-f0ed-4b45-9f2f-b91ea180a782" />
-
-<img width="500" height="500" alt="404notfound" src="https://github.com/user-attachments/assets/e0801c13-90db-4025-8c57-63a797570f2e" />
-<img width="500" height="500" width="290" alt="404notfound(1)" src="https://github.com/user-attachments/assets/b8f85a35-5186-4146-9554-60ed72e215b9" />
+<img width="400" height="200" alt="HellowWord(2)" src="https://github.com/user-attachments/assets/c5a1a504-f0ed-4b45-9f2f-b91ea180a782" />
+<img width="500" height="200" alt="404notfound" src="https://github.com/user-attachments/assets/e0801c13-90db-4025-8c57-63a797570f2e" />
